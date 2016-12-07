@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+
+	<link rel="stylesheet" type="text/css" href="../css/style.css" media="all" >
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript" src="../js/main.js"></script>
+	<title>Таймер обратного отсчета на jQuery</title>
+	<script>
+		var currentyear=new Date().getFullYear();
+		var thischristmasyear=(new Date().getMonth()==0 && new Date().getDate()==1)? currentyear : currentyear + 1 ; 
+		var christmas="january 1, "+thischristmasyear+" 0:0:00";
+		var currentTime=new Date();
+		var targetdate=new Date(christmas);  		
+		var timediff=(targetdate-currentTime)/1000;
+		var oneMinute=60;
+		var oneHour=60*60;
+		var oneDay=60*60*24;
+		var dayfield=Math.floor(timediff/oneDay);
+		var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour);
+		var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute);
+		var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute));
+		$(function(){
+			$('.c-block:eq(0) .bl-inner span').text(dayfield);
+			$('.c-block:eq(1) .bl-inner span').text(hourfield);
+			$('.c-block:eq(2) .bl-inner span').text(minutefield);
+			$('.c-block:eq(3) .bl-inner span').text(secondfield);
+		});
+</script>
+</head>
+<body>
+	<div class="container">
+		<div class="header">			
+			<div class="time">
+				<em class="clock"></em>
+				<div class="c-block c-block-3"><div class="bl-inner"><span>10</span></div> <span class="etitle etitle-1">дней</span></div> 
+				<div class="c-block c-block-2"><div class="bl-inner"><span>10</span></div> <span class="etitle etitle-2">часов</span></div> 
+				<div class="c-block c-block-2"><div class="bl-inner"><span>10</span></div> <span class="etitle etitle-3">минут</span></div> 
+				<div class="c-block c-block-2"><div class="bl-inner"><span>5</span></div> <span class="etitle etitle-4">секунд</span></div>
+			</div>
+		</div><!-- /.header -->
+	</div><!-- /.container -->
+	<footer>
+	        <center><h2>Таймер обратного отсчета на jQuery</h2></center>
+    </footer>
+</body>
+</html>

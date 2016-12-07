@@ -1,0 +1,824 @@
+.bg-1 {
+  background: #03c3f2 url("../img/bg-1.jpg") no-repeat top center;
+  min-height: 2830px;
+  padding-top: 40px;
+  padding-bottom: 50px; }
+  .bg-1 .construktor {
+    font-family: "Open Sans Extrabold";
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 29px; }
+    .bg-1 .construktor span {
+      font-family: "Open Sans";
+      font-size: 29px; }
+  .bg-1 .magnit-konstr {
+    font-family: "Open Sans";
+    font-size: 15px;
+    color: #124b76;
+    text-transform: uppercase; }
+  .bg-1 .zakazat {
+    display: inline-block;
+    padding: 15px;
+    padding-left: 110px;
+    padding-right: 110px;
+    font-family: "Open Sans Bold";
+    color: #124b76;
+    font-size: 26px;
+    text-transform: uppercase;
+    background: #ffc80a;
+    border: none;
+    border-radius: 7px; }
+  .bg-1 .phone-head {
+    font-family: "Open Sans Bold";
+    font-size: 30px;
+    color: #ffffff;
+    text-align: right; }
+  .bg-1 .btn-lg {
+    font-family: "Open Sans";
+    font-size: 16px;
+    color: #124b76;
+    text-transform: uppercase;
+    margin-top: 0px;
+    display: block;
+    background: none;
+    border: none;
+    float: right;
+    padding-right: 0; }
+  .bg-1 h1 {
+    font-family: "Open Sans Bold";
+    font-size: 45px;
+    padding-top: 372px;
+    color: #ffffff;
+    text-transform: uppercase; }
+    .bg-1 h1 span {
+      font-family: "Open Sans"; }
+  .bg-1 h2 {
+    font-family: "Open Sans Bold";
+    font-size: 46px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 344px; }
+  .bg-1 p {
+    font-family: "Open Sans";
+    font-size: 25px;
+    color: #ffffff; }
+  .bg-1 .about-konstr {
+    font-family: "Open Sans";
+    font-size: 26px;
+    color: #124b76;
+    padding-top: 73px; }
+  .bg-1 .konstructor {
+    width: 100%; }
+  .bg-1 #owl-demo {
+    margin-top: 50px; }
+  .bg-1 .mor-info {
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 26px;
+    color: #124b76;
+    text-transform: none;
+    text-decoration: underline;
+    margin: auto;
+    display: block; }
+  .bg-1 .cenu {
+    margin-top: 285px;
+    text-align: right; }
+    .bg-1 .cenu .old-cena {
+      font-family: "Open Sans Bold";
+      font-size: 26px;
+      color: #124b76; }
+    .bg-1 .cenu .cena-skidka {
+      font-size: 26px;
+      color: #124b76;
+      font-family: "Open Sans Bold"; }
+      .bg-1 .cenu .cena-skidka span {
+        font-size: 46px;
+        color: #ffffff;
+        font-family: "Open Sans Bold"; }
+    .bg-1 .cenu .zakaz-2 {
+      text-align: left; }
+
+.bg-2 {
+  background: url("../img/bg-2.jpg") no-repeat center;
+  min-height: 3214px;
+  padding-bottom: 50px; }
+  .bg-2 h2 {
+    font-family: "Open Sans Bold";
+    font-size: 46px;
+    color: #124b76;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 225px; }
+  .bg-2 .konstructor {
+    width: 100%; }
+  .bg-2 p {
+    font-family: "Open Sans";
+    font-size: 25px;
+    color: #124b76;
+    text-align: center; }
+  .bg-2 #owl-demo2 {
+    margin-top: 117px;
+    margin-bottom: 70px; }
+  .bg-2 .about-konstr {
+    font-family: "Open Sans";
+    font-size: 26px;
+    color: #124b76;
+    padding-top: 73px; }
+  .bg-2 iframe {
+    width: 100%; }
+  .bg-2 h3 {
+    text-align: center;
+    color: #ffffff;
+    font-family: "Open Sans Bold";
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-top: 100px;
+    margin-bottom: 80px; }
+  .bg-2 .work img {
+    vertical-align: middle;
+    margin-right: 10px;
+    display: table-cell; }
+  .bg-2 .cenu {
+    margin-top: 246px;
+    text-align: right; }
+    .bg-2 .cenu .old-cena {
+      font-family: "Open Sans Bold";
+      font-size: 26px;
+      color: #124b76; }
+    .bg-2 .cenu .cena-skidka {
+      font-size: 26px;
+      color: #124b76;
+      font-family: "Open Sans Bold"; }
+      .bg-2 .cenu .cena-skidka span {
+        font-size: 46px;
+        color: #ffffff;
+        font-family: "Open Sans Bold"; }
+    .bg-2 .cenu .zakaz-2 {
+      text-align: left; }
+      .bg-2 .cenu .zakaz-2 .zakazat {
+        display: inline-block;
+        padding: 15px;
+        padding-left: 110px;
+        padding-right: 110px;
+        font-family: "Open Sans Bold";
+        color: #ffffff;
+        font-size: 26px;
+        text-transform: uppercase;
+        background: #03c3f2;
+        border: none;
+        border-radius: 7px; }
+
+.bg-3 {
+  background: url("../img/bg-3.jpg") no-repeat center;
+  min-height: 1014px;
+  padding-top: 95px; }
+  .bg-3 .uspey-zakazat {
+    font-family: "Open Sans";
+    color: #ffffff;
+    font-size: 49px;
+    text-transform: uppercase; }
+  .bg-3 .v-podarok {
+    font-family: "Open Sans Bold";
+    color: #ffffff;
+    font-size: 49px;
+    text-transform: uppercase; }
+  .bg-3 .podarok {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 59px; }
+  .bg-3 .action {
+    text-align: right;
+    font-family: "Open Sans";
+    color: #ffffff;
+    font-size: 25px;
+    width: 30%;
+    float: left; }
+  .bg-3 .timer {
+    text-align: right;
+    font-family: "Open Sans";
+    color: #ffffff;
+    font-size: 25px;
+    width: 30%;
+    float: left; }
+  .bg-3 .zakazat {
+    display: inline-block;
+    padding: 15px;
+    padding-left: 110px;
+    padding-right: 110px;
+    font-family: "Open Sans Bold";
+    color: #124b76;
+    font-size: 26px;
+    text-transform: uppercase;
+    background: #ffc80a;
+    border: none;
+    border-radius: 7px;
+    margin-top: 17px;
+    margin-left: 74px; }
+  .bg-3 .time {
+    display: block;
+    margin: 0 auto;
+    padding: 20px 0 50px;
+    position: relative;
+    text-align: center;
+    width: 49%; }
+  .bg-3 .time * {
+    vertical-align: top; }
+  .bg-3 .time ins,
+  .bg-3 .time .clock {
+    position: relative;
+    top: 10px;
+    width: 40px;
+    height: 55px;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    background: transparent url(../img/sprites.png) no-repeat -260px -154px; }
+  .bg-3 .time .clock {
+    margin-right: 7px; }
+  .bg-3 .time ins {
+    width: 10px; }
+  .bg-3 .time ins {
+    background-position: -300px -154px; }
+  .bg-3 .time .etitle {
+    position: absolute;
+    width: 110px;
+    text-align: center;
+    left: 50%;
+    margin-left: -47px;
+    top: 55px;
+    line-height: 30px; }
+  .bg-3 .etitle-1 {
+    font-size: 1.6em; }
+  .bg-3 .etitle-2 {
+    font-size: 1.37em;
+    padding-top: .1em; }
+  .bg-3 .etitle-3 {
+    font-size: 1.12em;
+    padding-top: .2em; }
+  .bg-3 .etitle-4 {
+    font-size: .87em;
+    padding-top: .3em; }
+  .bg-3 .c-block {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    margin: 0 18px 0 3px;
+    padding: 4px 0 40px 3px;
+    position: relative;
+    background: transparent url(../img/sprites.png) no-repeat -260px 0; }
+  .bg-3 .c-block:before {
+    content: '';
+    position: absolute;
+    left: 100%;
+    top: 0;
+    width: 31px;
+    background: transparent url(../img/sprites.png) no-repeat 100% -77px;
+    height: 77px; }
+  .bg-3 .bl-inner {
+    position: relative;
+    margin-right: -10px;
+    height: 48px;
+    background: transparent url(../img/sprites.png) no-repeat -5px -48px; }
+  .bg-3 .bl-inner span {
+    display: none;
+    font-size: 46px;
+    color: #fff;
+    line-height: 46px;
+    margin-left: 2px; }
+  .bg-3 .bl-inner:before {
+    content: '';
+    position: absolute;
+    left: 100%;
+    top: 0;
+    width: 3px;
+    background: transparent url(../img/sprites.png) no-repeat -122px -48px;
+    height: 48px; }
+  .bg-3 .c-block-1 {
+    width: 20px; }
+  .bg-3 .c-block-2 {
+    width: 45px; }
+  .bg-3 .c-block-3 {
+    width: 70px; }
+
+.bg-4 {
+  background: url("../img/bg-4.png") no-repeat center;
+  min-height: 1007px;
+  z-index: 2;
+  position: relative; }
+  .bg-4 h2 {
+    font-family: "Open Sans Bold";
+    font-size: 56px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 196px;
+    margin-bottom: 70px; }
+  .bg-4 h4 {
+    font-family: "Open Sans Semibold";
+    font-size: 20px;
+    color: #ffc80a;
+    text-transform: uppercase; }
+  .bg-4 .media-body {
+    font-family: "Open Sans";
+    font-size: 17px;
+    color: #03c3f2; }
+  .bg-4 .media {
+    margin-top: 80px; }
+
+.bg-5 {
+  background: url("../img/bg-5.jpg") no-repeat center;
+  min-height: 1472px;
+  margin-top: -45px;
+  z-index: 1; }
+  .bg-5 h2 {
+    font-family: "Open Sans Bold";
+    font-size: 46px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: left; }
+  .bg-5 h3 {
+    font-family: "Open Sans Semibold";
+    font-size: 17px;
+    color: #ffffff;
+    text-transform: uppercase; }
+  .bg-5 p {
+    font-family: "Open Sans";
+    font-size: 18px;
+    color: #124b76; }
+    .bg-5 p span {
+      font-family: "Open Sans Bold"; }
+  .bg-5 .dost {
+    margin-top: 229px; }
+  .bg-5 .dost-2 {
+    margin-top: 129px; }
+    .bg-5 .dost-2 img {
+      text-align: center; }
+  .bg-5 .oplata-2 {
+    padding-top: 87px; }
+
+.bg-6 {
+  background: #124b76;
+  padding-bottom: 50px; }
+  .bg-6 h2 {
+    font-family: "Open Sans Bold";
+    font-size: 46px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 133px;
+    margin-bottom: 70px; }
+  .bg-6 .otzuv-cont-1 {
+    font-family: "Open Sans";
+    font-size: 18px;
+    color: #124b76;
+    background: url("../img/otzuv-1.png") no-repeat;
+    width: 261px;
+    height: 269px;
+    padding: 39px;
+    margin: 0 auto; }
+  .bg-6 .name {
+    font-family: "Open Sans";
+    font-size: 28px;
+    color: #ffffff;
+    text-align: center; }
+  .bg-6 img {
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px; }
+  .bg-6 .status {
+    font-family: "Open Sans";
+    font-size: 18px;
+    color: #03c3f2;
+    text-align: center; }
+  .bg-6 .otzuv-cont-2 {
+    font-family: "Open Sans";
+    font-size: 18px;
+    color: #124b76;
+    background: url("../img/otzuv-2.png") no-repeat;
+    width: 261px;
+    height: 399px;
+    padding: 39px;
+    margin: 0 auto; }
+  .bg-6 .otzuv-cont-3 {
+    font-family: "Open Sans";
+    font-size: 18px;
+    color: #124b76;
+    background: url("../img/otzuv-3.png") no-repeat;
+    width: 261px;
+    height: 269px;
+    padding: 39px;
+    margin: 0 auto; }
+
+.bg-7 {
+  background: #fac000;
+  padding-bottom: 100px; }
+  .bg-7 h2 {
+    font-family: "Open Sans Bold";
+    font-size: 46px;
+    color: #124b76;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 133px;
+    margin-bottom: 70px; }
+  .bg-7 .etap-1 {
+    background: url("../img/etap-1.png") no-repeat;
+    height: 117px;
+    width: 368px;
+    font-family: "Open Sans";
+    font-size: 17px;
+    color: #5a5a5a;
+    text-transform: uppercase;
+    text-align: left;
+    padding-left: 84px;
+    padding-top: 18px;
+    line-height: 27px; }
+  .bg-7 .etap-2 {
+    background: url("../img/etap-2.png") no-repeat;
+    height: 117px;
+    width: 374px;
+    font-family: "Open Sans";
+    font-size: 17px;
+    color: #5a5a5a;
+    text-transform: uppercase;
+    text-align: left;
+    padding-left: 84px;
+    padding-top: 18px;
+    line-height: 27px; }
+  .bg-7 .etap-3 {
+    background: url("../img/etap-3.png") no-repeat;
+    height: 117px;
+    width: 257px;
+    font-family: "Open Sans";
+    font-size: 17px;
+    color: #5a5a5a;
+    text-transform: uppercase;
+    text-align: left;
+    padding-left: 84px;
+    padding-top: 18px;
+    line-height: 27px; }
+  .bg-7 .etap-4 {
+    background: url("../img/etap-4.png") no-repeat;
+    height: 124px;
+    width: 346px;
+    font-family: "Open Sans";
+    font-size: 17px;
+    color: #5a5a5a;
+    text-transform: uppercase;
+    text-align: left;
+    padding-left: 84px;
+    padding-top: 18px;
+    line-height: 27px; }
+  .bg-7 .etap-5 {
+    background: url("../img/etap-5.png") no-repeat;
+    height: 164px;
+    width: 402px;
+    font-family: "Open Sans";
+    font-size: 17px;
+    color: #5a5a5a;
+    text-transform: uppercase;
+    text-align: left;
+    padding-left: 84px;
+    padding-top: 18px;
+    line-height: 27px; }
+
+.bg-8 {
+  background: url("../img/bg-8.jpg") no-repeat center;
+  min-height: 938px; }
+  .bg-8 h2 {
+    font-family: "Open Sans Bold";
+    font-size: 46px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 111px;
+    margin-bottom: 70px; }
+  .bg-8 form {
+    text-align: center; }
+    .bg-8 form input {
+      background: #ffffff;
+      border-radius: 3px;
+      border: 1px solid #000000;
+      padding: 10px;
+      margin-right: 10px;
+      height: 58px;
+      font-family: "Open Sans";
+      font-size: 17px;
+      text-align: center;
+      color: #5a5a5a;
+      /* Firefox 19+ */
+      /* Firefox 18- */ }
+      .bg-8 form input::-webkit-input-placeholder {
+        color: #5a5a5a;
+        font: 18px "Open Sans"; }
+      .bg-8 form input ::-moz-placeholder {
+        color: #5a5a5a;
+        font: 18px "Open Sans"; }
+      .bg-8 form input :-moz-placeholder {
+        color: #5a5a5a;
+        font: 18px "Open Sans"; }
+      .bg-8 form input :-ms-input-placeholder {
+        color: #5a5a5a;
+        font: 18px "Open Sans"; }
+    .bg-8 form textarea {
+      width: 62%;
+      height: 140px;
+      background: #ffffff;
+      border-radius: 3px;
+      border: 1px solid #124b76;
+      padding: 10px;
+      margin-top: 20px;
+      text-align: center;
+      color: #5a5a5a;
+      /* Firefox 19+ */
+      /* Firefox 18- */ }
+      .bg-8 form textarea::-webkit-input-placeholder {
+        color: #5a5a5a;
+        font: 18px "Open Sans"; }
+      .bg-8 form textarea ::-moz-placeholder {
+        color: #5a5a5a;
+        font: 18px "Open Sans"; }
+      .bg-8 form textarea :-moz-placeholder {
+        color: #5a5a5a;
+        font: 18px "Open Sans"; }
+      .bg-8 form textarea :-ms-input-placeholder {
+        color: #5a5a5a;
+        font: 18px "Open Sans"; }
+    .bg-8 form button {
+      display: inline-block;
+      padding: 15px;
+      padding-left: 110px;
+      padding-right: 110px;
+      font-family: "Open Sans Bold";
+      color: #124b76;
+      font-size: 26px;
+      text-transform: uppercase;
+      background: #ffc80a;
+      border: none;
+      border-radius: 7px;
+      margin-top: 20px; }
+  .bg-8 .perezvonim {
+    font-family: "Open Sans";
+    font-size: 17px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 30px; }
+    .bg-8 .perezvonim img {
+      margin-right: 10px; }
+  .bg-8 .construktor {
+    font-family: "Open Sans Extrabold";
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 29px; }
+    .bg-8 .construktor span {
+      font-family: "Open Sans";
+      font-size: 29px; }
+  .bg-8 .magnit-konstr {
+    font-family: "Open Sans";
+    font-size: 15px;
+    color: #124b76;
+    text-transform: uppercase; }
+  .bg-8 .zakazat {
+    display: inline-block;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: "Open Sans Bold";
+    color: #124b76;
+    font-size: 26px;
+    text-transform: uppercase;
+    background: #ffc80a;
+    border: none;
+    border-radius: 7px; }
+  .bg-8 .phone-head {
+    font-family: "Open Sans Bold";
+    font-size: 30px;
+    color: #ffffff;
+    text-align: right; }
+  .bg-8 .btn-lg {
+    font-family: "Open Sans";
+    font-size: 16px;
+    color: #124b76;
+    text-transform: uppercase;
+    margin-top: 0px;
+    display: block;
+    background: none;
+    border: none;
+    float: right;
+    padding-right: 0; }
+  .bg-8 .contact-footer {
+    margin-top: 157px; }
+
+.zvonok .modal-content {
+  background: #03c3f2; }
+  .zvonok .modal-content .modal-header {
+    border-bottom: none; }
+
+.zvonok h4 {
+  font-family: "Open Sans Bold";
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase; }
+
+.zvonok .modal-body form input {
+  width: 100%;
+  background: #ffffff;
+  border-radius: 3px;
+  border: 1px solid #000000;
+  padding: 10px;
+  margin-bottom: 20px;
+  height: 58px;
+  font-family: "Open Sans";
+  font-size: 17px;
+  text-align: left;
+  color: #5a5a5a;
+  /* Firefox 19+ */
+  /* Firefox 18- */ }
+  .zvonok .modal-body form input::-webkit-input-placeholder {
+    color: #5a5a5a;
+    font: 18px "Open Sans"; }
+  .zvonok .modal-body form input ::-moz-placeholder {
+    color: #5a5a5a;
+    font: 18px "Open Sans"; }
+  .zvonok .modal-body form input :-moz-placeholder {
+    color: #5a5a5a;
+    font: 18px "Open Sans"; }
+  .zvonok .modal-body form input :-ms-input-placeholder {
+    color: #5a5a5a;
+    font: 18px "Open Sans"; }
+
+.zvonok .modal-body form button {
+  text-transform: uppercase;
+  margin-top: 0px;
+  display: block;
+  background: #ffc80a;
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: "Open Sans Bold";
+  color: #124b76;
+  font-size: 26px;
+  margin: auto;
+  border: none;
+  border-radius: 7px; }
+
+.oforml-zakaza .modal-content {
+  background: #03c3f2; }
+  .oforml-zakaza .modal-content .modal-header {
+    border-bottom: none; }
+
+.oforml-zakaza h4 {
+  font-family: "Open Sans Bold";
+  font-size: 30px;
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 0; }
+
+.oforml-zakaza h3 {
+  font-family: "Open Sans";
+  font-size: 20px;
+  color: #ffffff;
+  text-align: left;
+  padding-left: 132px;
+  text-transform: uppercase;
+  margin-top: 0; }
+
+.oforml-zakaza form {
+  text-align: center; }
+  .oforml-zakaza form input {
+    padding: 7px;
+    border-radius: 7px;
+    border: 1px solid #124b76;
+    margin-bottom: 10px; }
+  .oforml-zakaza form .name {
+    width: 61%;
+    height: 56px; }
+  .oforml-zakaza form .phone {
+    width: 30%;
+    height: 56px;
+    margin-right: 10px; }
+  .oforml-zakaza form .addr {
+    float: left; }
+  .oforml-zakaza form .predoplata {
+    float: right;
+    font-family: "Open Sans";
+    font-size: 12px;
+    margin-right: 109px;
+    color: #ffffff; }
+    .oforml-zakaza form .predoplata span {
+      font-family: "Open Sans Bold"; }
+  .oforml-zakaza form .vubor {
+    width: 63%;
+    background: #ffffff;
+    border-radius: 3px;
+    border: 1px solid #000000;
+    padding: 10px;
+    margin-bottom: 20px;
+    height: 43px;
+    font-family: "Open Sans";
+    font-size: 17px;
+    text-align: left;
+    color: #5a5a5a;
+    margin-top: 10px;
+    display: inline-block; }
+    .oforml-zakaza form .vubor .caret {
+      background: url("../img/select.png") no-repeat;
+      width: 42px;
+      margin-top: -8px;
+      border: none;
+      height: 37px;
+      margin-left: 97px;
+      vertical-align: middle;
+      /* border-top: 4px dashed; */
+      border-top: 4px solid \9;
+      /* border-right: 4px solid transparent; */
+      /* border-left: 4px solid transparent; */ }
+  .oforml-zakaza form .dropdown-menu {
+    top: 80%;
+    left: 119px; }
+  .oforml-zakaza form button {
+    text-transform: uppercase;
+    margin-top: 0px;
+    display: block;
+    background: #ffc80a;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: "Open Sans Bold";
+    color: #124b76;
+    font-size: 26px;
+    margin: auto;
+    border: none;
+    border-radius: 7px; }
+
+@media (max-width: 990px) {
+  .bg-2 {
+    background: url(../img/bg-2.jpg) repeat center;
+    min-height: 3214px; }
+  .bg-2 .cenu .zakaz-2 {
+    text-align: center; }
+  .bg-4 {
+    background: #124b76;
+    padding-bottom: 50px;
+    z-index: 2;
+    position: relative; }
+  .bg-5 {
+    background: url(../img/bg-5.jpg) repeat center;
+    min-height: 1472px;
+    margin-top: -45px;
+    z-index: 1; } }
+
+@media (max-width: 767px) {
+  .bg-1 .cenu .zakaz-2,
+  .bg-2 .cenu .zakaz-2 {
+    text-align: center; }
+  .bg-1 .cenu .cena-skidka {
+    font-size: 23px;
+    color: #124b76;
+    font-family: "Open Sans Bold"; }
+  .bg-2 {
+    background: url(../img/bg-2.jpg) repeat center;
+    min-height: 3214px; }
+  .bg-4 {
+    background: #124b76;
+    padding-bottom: 50px;
+    z-index: 2;
+    position: relative; }
+  .bg-5 {
+    background: url(../img/bg-5.jpg) repeat center;
+    min-height: 1472px;
+    margin-top: -45px;
+    z-index: 1; }
+  .bg-8 form input,
+  .bg-8 form textarea {
+    width: 100%;
+    margin-bottom: 10px; }
+  .bg-8 {
+    background: #C0C1EF;
+    min-height: 938px;
+    padding-bottom: 50px; }
+  .bg-8 .contact-footer {
+    margin-top: 61px; } }
+
+@media (max-width: 320px) {
+  .bg-1 .cenu .cena-skidka {
+    font-size: 23px;
+    color: #124b76;
+    font-family: "Open Sans Bold"; }
+  .bg-3 .podarok {
+    width: 100%; }
+  .bg-4 {
+    background: #124b76;
+    padding-bottom: 50px;
+    z-index: 2;
+    position: relative; }
+  .bg-5 {
+    background: url(../img/bg-5.jpg) repeat center;
+    min-height: 1472px;
+    margin-top: -45px;
+    z-index: 1; }
+  .bg-8 form input {
+    width: 100%; } }
